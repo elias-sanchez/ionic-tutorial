@@ -19,6 +19,12 @@ export class PlacesService {
       title: 'Statue of Liberty',
       imageURL: 'https://queverenelmundo.com/guias/wp-content/uploads/Estatua-Libertad-Nueva-York-2.jpg',
       comments: ['Awesome place','wonderful experience']
+    },
+    {
+      id: '3',
+      title: 'Statue of Liberty',
+      imageURL: 'https://queverenelmundo.com/guias/wp-content/uploads/Estatua-Libertad-Nueva-York-2.jpg',
+      comments: []
     }
   ]
 
